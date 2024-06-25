@@ -1,5 +1,5 @@
 ## Bem vindo ao meu perfil!
-Me chamo Giovanna Cabral
+Meu nome é Giovanna Cabral
 
 Estou estudando na Alura
 
